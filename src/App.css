@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: rgb(200, 230, 176);
+}
+h1 {
+  color: rgb(255, 0, 43);
+}
+p {
+  color: rgb(255, 0, 0);
+}
